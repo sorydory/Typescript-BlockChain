@@ -1,0 +1,28 @@
+2023-07-31 / day01 Quiz
+---------------------------------
+
+1. JavaScript is a type safe langauge.
+-> No
+
+2. What happens if we run this code in JS:
+	["hello"]+{hi:1}
+-> It will run
+
+3. What is a runtime error?
+-> An error that happens while the code runs
+
+4. What is Typescript compiled to?
+-> JavaScript Code
+
+5. Is this valid Typescript code?
+
+6. const kimchi = {
+    맛있어: true
+}
+-> Yes
+
+7. We always have to specify a type for our variables in Typescript.
+-> Yes, else it won't work
+
+8. How do we set the type of a variable explicitly in TS?
+-> const x : string = "hi"
